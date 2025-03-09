@@ -41,6 +41,10 @@ We implement appropriate technical measures to protect your information.
 
 We may update this Privacy Policy from time to time. We will notify you of any changes by posting the new Privacy Policy on this page.
 
+### Data Deletion
+
+For information on how to delete your data, please see our [Data Deletion Instructions](./data-deletion.html).
+
 ### Contact Us
 
 If you have questions about this Privacy Policy, please contact us at [zdluria@gmail.com].
