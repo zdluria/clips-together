@@ -1,10 +1,10 @@
 # Privacy Policy
 
-## Last Updated: [Current Date]
+## Last Updated: March 9, 2025
 
 ### Introduction
 
-This Privacy Policy explains how [Your App Name] ("we", "our", or "us") collects, uses, and shares information when you use our application that connects with Facebook to post content to Facebook Reels.
+This Privacy Policy explains how Facebook Clips Together ("we", "our", or "us") collects, uses, and shares information when you use our application that connects with Facebook to post content to Facebook Reels.
 
 ### Information We Collect
 
